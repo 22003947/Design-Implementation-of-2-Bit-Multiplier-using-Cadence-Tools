@@ -1,4 +1,4 @@
-# Ex No: 06 - Design & Implementation of 2-Bit Multiplier Using Cadence Virtuoso
+## Ex No: 06 - Design & Implementation of 2-Bit Multiplier Using Cadence Virtuoso
 
 ## Aim
 The aim is to design and implement a **2-bit Multiplier** using **Cadence Virtuoso** and verify its functionality through transient analysis simulation.
@@ -45,32 +45,34 @@ The aim is to design and implement a **2-bit Multiplier** using **Cadence Virtuo
 
 ### Schematicand Symbol of 2-Input AND Gate:
 
-![Screenshot 2025-05-10 160454](https://github.com/user-attachments/assets/7a700f59-c4b4-4006-b791-0a4edf7d1e57)
+![386145670-71e954f9-9f3c-4bd0-b5ea-9a9fd11226ee](https://github.com/user-attachments/assets/976ab97a-1950-4ffd-92b6-8ac84075bd27)
 
-![Screenshot 2025-05-10 160505](https://github.com/user-attachments/assets/4031c7a7-7c0f-4397-a936-ac4f90c4f402)
+![386146336-46ec3836-5b20-4623-9b40-0453f27a09cd](https://github.com/user-attachments/assets/d150dcc5-e72b-4552-b331-32b76605c4d7)
+
 
 ### Schematicand Symbol of 2-Input EX-OR Gate:
 
-![Screenshot 2025-05-10 160515](https://github.com/user-attachments/assets/880ad1be-e8b3-4111-b2ea-2b2c7eb1fd14)
+![386146653-c168141c-7f84-48f1-8291-31ff284ee445](https://github.com/user-attachments/assets/f346ede0-b45d-49f6-ad4e-7ed855659899)
 
-![Screenshot 2025-05-10 160523](https://github.com/user-attachments/assets/4230854b-5f8e-43d0-9875-258b457660e3)
+
+
 
 ### Schematicand Symbol of Half Adder:
-![Screenshot 2025-05-10 160535](https://github.com/user-attachments/assets/5d98f983-d6b7-42b9-8f16-17407b2010b2)
 
-![Screenshot 2025-05-10 161100](https://github.com/user-attachments/assets/bfaa7af0-6785-46e4-b434-87d677af5807)
+![386147071-005a8470-c662-46e9-bbf9-8d375491cd6b](https://github.com/user-attachments/assets/e848c32f-8518-4b7c-adc4-831838c2fdaf)
+
+
 
 ### Schematic of 2-Bit Multiplier:
-![Screenshot 2025-05-10 162446](https://github.com/user-attachments/assets/5b4b78a1-5812-4789-85ec-60324c2b5968)
+![386147180-433ba580-ec0a-42b6-8c96-6f1b67b8439e](https://github.com/user-attachments/assets/c646b091-62f1-4f25-bed6-572d3059124e)
+
 
 ## Output
 ### Transient Analysis Output:
-![Screenshot 2025-05-15 153033](https://github.com/user-attachments/assets/2c94f184-525c-49ba-8733-27c982f0dffa)
-
-![image](https://github.com/user-attachments/assets/55864d90-af08-4836-bc90-4cbba80573f8)
+![386147348-9254b325-b251-4e49-9eae-f95f05d92b3e](https://github.com/user-attachments/assets/399f2fef-1fb7-41df-8240-55c2b41c4084)
 
 
-![Screenshot 2025-05-15 152538](https://github.com/user-attachments/assets/694df39e-3505-4cf1-ae99-21bc428300b7)
+
 
 Run Time : 200ns
 
